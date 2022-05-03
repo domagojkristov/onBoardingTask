@@ -1,0 +1,20 @@
+{
+  "name": "onboardingtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domagojkristov/onBoardingTask.git"
+  },
+  "keywords": [],
+  "author": "domagojkristov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domagojkristov/onBoardingTask/issues"
+  },
+  "homepage": "https://github.com/domagojkristov/onBoardingTask#readme"
+}
